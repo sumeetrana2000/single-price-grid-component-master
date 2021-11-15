@@ -1,0 +1,82 @@
+body{
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(204, 43%, 93%);
+    width: max-content;
+    height: fit-content ;
+}
+
+.div1{
+    background-color: white;
+    width: max-content;
+    padding: 12px 55px 25px 30px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.div2{
+    background-color:hsl(179, 62%, 43%);
+    width: max-content;
+    padding: 12px 35px 30px 30px;
+    color: hsl(204, 43%, 93%);
+    border-bottom-left-radius: 10px;
+}
+
+.div3{
+    background-color: hsl(177, 73%, 54%);
+    width: max-content;
+    padding: 12px 65px 7px 30px;   
+    position: relative;
+    bottom: 235.5px;
+    left: 304px;
+    color: hsl(204, 43%, 93%);
+    border-bottom-right-radius: 10px;
+}
+
+.main{
+    position: relative;
+    left: 450px;
+    top: 130px;
+}
+
+.info1{
+    font-size: 16px;
+    font-weight: 400;
+    color:hsl(218, 22%, 67%);
+}
+
+.info2{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(204, 43%, 93%);
+    margin-top: 10px;   
+}
+
+.dollar{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.doll{
+    margin-bottom: 0px;
+}
+
+.join{
+    color: hsl(179, 62%, 43%);
+}
+
+.free{
+    color: hsl(71, 73%, 54%);
+}
+
+.up{
+    margin: 0 auto;
+    background-color:hsl(71, 73%, 54%);
+    width: max-content;
+    border-radius: 5px;
+    padding: 15px 90px 15px 90px;
+}
+
+.attribution{
+    position: relative;
+    left: 450px;
+}
